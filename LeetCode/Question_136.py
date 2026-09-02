@@ -1,0 +1,1 @@
+'''Given a non-empty integer array nums where every element appears twice except for one element, write a Python program to find the element that appears only once. The solution must have O(n) time complexity and O(1) extra space.'''

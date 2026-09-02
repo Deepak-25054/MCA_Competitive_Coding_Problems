@@ -1,3 +1,5 @@
+''' Write a Python program using a class to convert the first and last characters of a given string to uppercase.'''
+
 class upper_lower:
     def convert(self,n):
         a = list(n)

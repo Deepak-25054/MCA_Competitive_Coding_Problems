@@ -1,3 +1,5 @@
+''' Write a Python program to count the number of vowels, consonants, and spaces in a given string using a class and constant space complexity.'''
+
 class find_vowel_constant_space:
     def count(self,n):
         vowels = 0
